@@ -27,7 +27,7 @@ I’m passionate about building AI-driven solutions that make a positive impact 
 ---
 
 ## 📫 Connect
-**LinkedIn:** [linkedin.com/in/yilinw762](https://linkedin.com/in/yilinw762)  
+**LinkedIn:** [linkedin.com/in/yilinw762](https://linkedin.com/in/yilinwang762)  
 **GitHub:** [github.com/yilinw762](https://github.com/yilinw762)  
 **Personal Email:** wyilin762@gmail.com
 
