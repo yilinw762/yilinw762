@@ -2,12 +2,11 @@
 
 🎓 Rising third-year Computer Science student @ **University of Virginia**  
 📊 Minor in Applied Mathematics & Data Science | GPA: 3.9  
-🏀 Outside of tech, I love **basketball** and **swimming**.  
 
 ---
 
 ## 🚀 About Me
-I’m passionate about building AI-driven solutions that make a positive impact in **healthcare, sustainability, and education**. My work spans **machine learning research, full-stack development, and cloud infrastructure**—from translating complex simulations into production-ready Python to creating tools that help people live healthier lives.
+I’m passionate about building AI-driven solutions that make a positive impact in **healthcare, sustainability, and education**. My work spans **machine learning research, full-stack development, and cloud infrastructure**—from translating complex simulations into production-ready Python to creating tools that help people live healthier lives. 🏀 Outside of tech, I love **basketball** and **swimming**.  
 
 ---
 
