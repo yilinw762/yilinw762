@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dylan Yilin Wang
+# 👋 Hey, I'm Dylan
 
 🎓 Rising third-year Computer Science student @ **University of Virginia**  
 📊 Minor in Applied Mathematics & Data Science | GPA: 3.9  
