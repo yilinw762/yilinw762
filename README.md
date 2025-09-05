@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Dylan (Yilin Wang)
+# 👋 Hello! I'm Dylan
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=yilinw762&color=0e75b6&style=flat-square" alt="Profile Views"/></p>
 
