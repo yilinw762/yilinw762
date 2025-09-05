@@ -11,8 +11,9 @@
 
 I’m an **AI enthusiast, builder, and lifelong learner** who’s passionate about creating technology for good. Whether it’s healthcare, sustainability, or education, I’m driven to craft AI-powered solutions that make a real-world impact.
 
-I thrive on translating big ideas into working products—blending **machine learning research, full-stack development, and cloud solutions** into practical tools that help others.  
-When I'm not coding, you’ll find me exploring the outdoors, reading about emerging tech, or playing chess.
+💡 I thrive on translating big ideas into working products—blending machine learning research, full-stack development, and cloud solutions into practical tools that create real impact.
+
+🌍 Outside of coding, I enjoy exploring the outdoors, reading about emerging technologies, and playing chess. I also stay active through basketball, where I value teamwork, collaboration, and community, swimming, which builds focus and endurance, and running, which strengthens resilience and discipline.
 
 ---
 
