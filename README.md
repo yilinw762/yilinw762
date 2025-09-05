@@ -11,16 +11,41 @@ I’m passionate about building AI-driven solutions that make a positive impact 
 ---
 
 ## 🛠 Tech Stack
-<p>
+<p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,ts,html,css,matlab,assembly" />
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=r" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=assembly" />
+</p>
 
+<p align="center">
   <!-- Frameworks / Tools -->
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,docker,git,gradle" />
+  <img src="https://skillicons.dev/icons?i=django" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gradle" />
+</p>
 
+<p align="center">
   <!-- ML & Data -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" />
+</p>
 
+<p align="center">
   <!-- Cloud & APIs -->
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
