@@ -61,7 +61,7 @@ I’m passionate about building AI-driven solutions that make a positive impact 
 - **Software Engineer** @ Engineered Materials Concepts, LLC → Built & deployed FVDAM simulation platform (**MATLAB → Python**, AWS cloud)  
 - **Machine Learning Researcher** @ UVA School of Data Science → Developed novel multi-level Gaussian Process model, **98.5% MSE reduction**  
 - **Software Developer** @ The Course Forum → Maintained full-stack course review platform serving **26,000+ students**  
-- **IT Intern** @ mEducation Alliance → Led research & outreach for **2025 STEMtastic Adventures! Symposium** in Fiji  
+- **Technology Intern** @ mEducation Alliance → Led research & outreach for **2025 STEMtastic Adventures! Symposium** in Fiji  
 
 ---
 
