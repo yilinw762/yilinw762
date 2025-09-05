@@ -11,6 +11,20 @@ I’m passionate about building AI-driven solutions that make a positive impact 
 ---
 
 ## 🛠 Tech Stack
+<p>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,ts,html,css,matlab,assembly" />
+
+  <!-- Frameworks / Tools -->
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,docker,git,gradle" />
+
+  <!-- ML & Data -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
+
+  <!-- Cloud & APIs -->
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
 **Languages:** Python, Java, C/C++, SQL, R, JavaScript/TypeScript, HTML/CSS, MATLAB, Assembly  
 **Frameworks/Tools:** Django, React, Next.js, Docker, Git, Gradle  
 **ML & Data:** PyTorch, GPyTorch, TensorFlow, scikit-learn, pandas, NumPy, Gaussian Processes  
