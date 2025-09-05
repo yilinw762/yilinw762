@@ -1,72 +1,73 @@
-# 👋 Hey, I'm Dylan
+# 👋 Hello! I'm Dylan (Yilin Wang)
 
-🎓 Rising third-year Computer Science student @ **University of Virginia**  
-📊 Minor in Applied Mathematics & Data Science | GPA: 3.9  
+<p align="right"><img src="https://komarev.com/ghpvc/?username=yilinw762&color=0e75b6&style=flat-square" alt="Profile Views"/></p>
+
+🌱 **Rising third-year Computer Science major** at the University of Virginia  
+📈 **Minoring in Applied Mathematics & Data Science** | GPA: 3.9
 
 ---
 
 ## 🚀 About Me
-I’m passionate about building AI-driven solutions that make a positive impact in **healthcare, sustainability, and education**. My work spans **machine learning research, full-stack development, and cloud infrastructure**—from translating complex simulations into production-ready Python to creating tools that help people live healthier lives. 🏀 Outside of tech, I love **basketball** and **swimming**.  
+
+I’m an **AI enthusiast, builder, and lifelong learner** who’s passionate about creating technology for good. Whether it’s healthcare, sustainability, or education, I’m driven to craft AI-powered solutions that make a real-world impact.
+
+I thrive on translating big ideas into working products—blending **machine learning research, full-stack development, and cloud solutions** into practical tools that help others.  
+When I'm not coding, you’ll find me exploring the outdoors, reading about emerging tech, or playing chess.
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=r" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=matlab" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=assembly" />
-</p>
+## 🛠️ Tech Toolbox
 
 <p align="center">
-  <!-- Frameworks / Tools -->
-  <img src="https://skillicons.dev/icons?i=django" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gradle" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,ts,html,css,matlab,assembly" />
 </p>
-
 <p align="center">
-  <!-- ML & Data -->
-  <img src="https://skillicons.dev/icons?i=pytorch" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,docker,git,gradle" />
 </p>
-
 <p align="center">
-  <!-- Cloud & APIs -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-**Languages:** Python, Java, C/C++, SQL, R, JavaScript/TypeScript, HTML/CSS, MATLAB, Assembly  
-**Frameworks/Tools:** Django, React, Next.js, Docker, Git, Gradle  
-**ML & Data:** PyTorch, GPyTorch, TensorFlow, scikit-learn, pandas, NumPy, Gaussian Processes  
-**Cloud & APIs:** AWS (EC2, S3, IAM), Mapbox, Gemini API, Auth0  
+- **Languages:** Python, Java, C/C++, SQL, R, JavaScript/TypeScript, HTML/CSS, MATLAB, Assembly  
+- **Frameworks & Tools:** Django, React, Next.js, Docker, Git, Gradle  
+- **ML & Data:** PyTorch, GPyTorch, TensorFlow, Scikit-learn, pandas, NumPy, Gaussian Processes  
+- **Cloud & APIs:** AWS (EC2, S3, IAM), Mapbox, Gemini API, Auth0
 
 ---
 
-## 💼 Experience
-- **Software Engineer** @ Engineered Materials Concepts, LLC → Built & deployed FVDAM simulation platform (**MATLAB → Python**, AWS cloud)  
-- **Machine Learning Researcher** @ UVA School of Data Science → Developed novel multi-level Gaussian Process model, **98.5% MSE reduction**  
-- **Software Developer** @ The Course Forum → Maintained full-stack course review platform serving **26,000+ students**  
-- **Technology Intern** @ mEducation Alliance → Led research & outreach for **2025 STEMtastic Adventures! Symposium** in Fiji  
+## 💼 Experience Highlights
+
+- **Software Engineer** @ Engineered Materials Concepts, LLC  
+  *Built & deployed FVDAM simulation platform (MATLAB → Python), orchestrated on AWS cloud.*
+
+- **Machine Learning Researcher** @ UVA School of Data Science  
+  *Developed a novel multi-level Gaussian Process model; reduced MSE by 98.5%.*
+
+- **Software Developer** @ The Course Forum  
+  *Maintained and enhanced a full-stack course review platform serving 26,000+ students.*
+
+- **Technology Intern** @ mEducation Alliance  
+  *Led research & outreach for the international 2025 STEMtastic Adventures! Symposium in Fiji.*
 
 ---
 
-## 📫 Connect
-**LinkedIn:** [linkedin.com/in/yilinw762](https://linkedin.com/in/yilinwang762)  
-**GitHub:** [github.com/yilinw762](https://github.com/yilinw762)  
-**Personal Email:** wyilin762@gmail.com
+## 🌟 Core Values
 
+- **Curiosity:** Always asking “why” and “how” to go beyond the obvious.
+- **Collaboration:** Strong believer in teamwork—building is better together!
+- **Impact:** Focused on applying technology where it matters most.
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/yilinwang762)  
+- [GitHub](https://github.com/yilinw762)  
+- 📧 wyilin762@gmail.com
+
+---
+
+_Thanks for stopping by! Feel free to explore my work, open an issue, or just say hi 👋_
