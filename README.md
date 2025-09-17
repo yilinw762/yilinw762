@@ -2,7 +2,7 @@
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=yilinw762&color=0e75b6&style=flat-square" alt="Profile Views"/></p>
 
-🌱 **Rising third-year Computer Science major** at the University of Virginia  
+🌱 **Third-year Computer Science major** at the University of Virginia  
 📈 **Minoring in Applied Mathematics & Data Science** | GPA: 3.9
 
 ---
