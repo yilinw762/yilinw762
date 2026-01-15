@@ -66,7 +66,6 @@ I’m an **AI enthusiast, builder, and lifelong learner** who’s passionate abo
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://linkedin.com/in/yilinwang762)  
-- [GitHub](https://github.com/yilinw762)  
 - 📧 wyilin762@gmail.com
 
 ---
