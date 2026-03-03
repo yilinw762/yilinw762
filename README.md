@@ -2,72 +2,66 @@
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=yilinw762&color=0e75b6&style=flat-square" alt="Profile Views"/></p>
 
-🌱 **Third-year Computer Science major** at the University of Virginia  
-📈 **Minoring in Applied Mathematics & Data Science** | GPA: 3.9
+🎓 Third-year Computer Science student at the University of Virginia  
+📊 Minor in Applied Mathematics & Data Science | GPA: 3.9  
+💼 Incoming **Wells Fargo 2026 Summer Software Engineering Intern**
 
 ---
 
 ## 🚀 About Me
 
-I’m an **AI enthusiast, builder, and lifelong learner** who’s passionate about creating technology for good. Whether it’s healthcare, sustainability, or education, I’m driven to craft AI-powered solutions that make a real-world impact.
+I’m a builder who enjoys turning ideas into working systems.
 
-💡 I thrive on translating big ideas into working products—blending machine learning research, full-stack development, and cloud solutions into practical tools that create real impact.
+My interests span:
+- Machine Learning & AI systems  
+- Backend & full-stack development  
+- Cloud infrastructure & scalable systems  
 
-🌍 Outside of coding, I enjoy exploring the outdoors, reading about emerging technologies, and playing chess. I also stay active through basketball, where I value teamwork, collaboration, and community, swimming, which builds focus and endurance, and running, which strengthens resilience and discipline.
+I’ve worked on research-grade ML models, production full-stack platforms, and cloud-deployed engineering systems.
 
----
-
-## 🛠️ Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,ts,html,css,matlab,assembly" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,docker,git,gradle" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-- **Languages:** Python, Java, C/C++, SQL, R, JavaScript/TypeScript, HTML/CSS, MATLAB, Assembly  
-- **Frameworks & Tools:** Django, React, Next.js, Docker, Git, Gradle  
-- **ML & Data:** PyTorch, GPyTorch, TensorFlow, Scikit-learn, pandas, NumPy, Gaussian Processes  
-- **Cloud & APIs:** AWS (EC2, S3, IAM), Mapbox, Gemini API, Auth0
+Outside of coding, I enjoy basketball, swimming, running, and exploring new technologies.
 
 ---
 
-## 💼 Experience Highlights
+## 🛠️ Tech Stack
 
-- **Software Engineer** @ Engineered Materials Concepts, LLC  
-  *Built & deployed FVDAM simulation platform (MATLAB → Python), orchestrated on AWS cloud.*
+**Languages:**  
+Python · Java · C/C++ · SQL · R · JavaScript/TypeScript · HTML/CSS  
 
-- **Machine Learning Researcher** @ UVA School of Data Science  
-  *Developed a novel multi-level Gaussian Process model; reduced MSE by 98.5%.*
+**Frameworks & Tools:**  
+Django · React · Next.js · Docker · Git · Gradle  
 
-- **Software Developer** @ The Course Forum  
-  *Maintained and enhanced a full-stack course review platform serving 26,000+ students.*
+**ML & Data:**  
+PyTorch · GPyTorch · TensorFlow · Scikit-learn · pandas · NumPy · Gaussian Processes  
 
-- **Technology Intern** @ mEducation Alliance  
-  *Led research & outreach for the international 2025 STEMtastic Adventures! Symposium in Fiji.*
-
----
-
-## 🌟 Core Values
-
-- **Curiosity:** Always asking “why” and “how” to go beyond the obvious.
-- **Collaboration:** Strong believer in teamwork—building is better together!
-- **Impact:** Focused on applying technology where it matters most.
+**Cloud:**  
+AWS (EC2, S3, IAM)
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Experience
 
-- [LinkedIn](https://linkedin.com/in/yilinwang762)  
-- 📧 wyilin762@gmail.com
+**Software Engineer** — Engineered Materials Concepts  
+- Migrated and deployed FVDAM simulation platform (MATLAB → Python)  
+- Orchestrated cloud infrastructure on AWS  
+
+**Machine Learning Researcher** — UVA School of Data Science  
+- Developed multi-level Gaussian Process models  
+- Significantly reduced prediction error on CGM time-series data  
+
+**Software Developer** — The Course Forum  
+- Contributed to a production full-stack platform serving 26,000+ students  
+
+**Technology Intern** — mEducation Alliance  
+- Supported international STEM outreach strategy & partnerships  
 
 ---
 
-_Thanks for stopping by! Feel free to explore my work, open an issue, or just say hi 👋_
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/yilinwang762  
+- Email: wyilin762@gmail.com  
+
+---
+
+Thanks for visiting 👋
