@@ -41,6 +41,8 @@ AWS (EC2, S3, IAM)
 
 ## 💼 Experience
 
+**Incoming Software Engineering Intern (Summer 2026)** — Wells Fargo  
+
 **Software Engineer** — Engineered Materials Concepts  
 - Migrated and deployed FVDAM simulation platform (MATLAB → Python)  
 - Orchestrated cloud infrastructure on AWS  
