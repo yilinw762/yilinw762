@@ -5,14 +5,14 @@
 
 ---
 
-i like building things that actually work.
+i’m obsessed with turning ideas into things that actually work.
 
 sometimes that’s:
-- training models on real-world data  
-- building full-stack apps people use  
-- shipping systems on aws  
+- training ML models on real-world data  
+- building full-stack apps people actually use  
+- shipping systems on aws that scale  
 
-always just trying to get better at turning ideas into reality  
+> i build. i break. i learn. i ship. repeat.
 
 ---
 
@@ -20,4 +20,5 @@ always just trying to get better at turning ideas into reality
 
 ---
 
-📫 linkedin.com/in/yilinwang762  
+📫 [LinkedIn](https://linkedin.com/in/yilinwang762)  
+✉️ [Email](mailto:wyilin762@gmail.com)
