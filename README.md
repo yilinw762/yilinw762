@@ -12,7 +12,7 @@ sometimes that’s:
 - building full-stack apps people actually use  
 - shipping systems on aws that scale  
 
-> i build. i break. i learn. i ship. repeat.
+> i build. i experiment. i learn. i ship. repeat.
 
 ---
 
