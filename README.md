@@ -16,7 +16,7 @@ sometimes that’s:
 
 ---
 
-🛠️ python · java · js/ts · django · react · pytorch · aws  
+🛠️ python · java · sql · js/ts · django · react · pytorch · aws · gcp  
 
 ---
 
